@@ -19,4 +19,6 @@ The CH376S board serves as an interface between microcontrollers, like Arduino o
 
 It became evident that the CH376S board provided a straightforward solution for accessing USB data storage devices. The essential component that remained was a microcontroller to serve as a bridge between the Atari 600XL and the CH376S board. Fortunately, finding such a microcontroller online was a straightforward task, given the availability of various options on the Arduino platform. I chose the Seeeduino Xiao as a microcontroller board interface because it is small and can therefore fit into a small container or housing. Besides that the microcontroller SAMD21 is fast, can do hardware SPI and the datasheet is not that hard to read and understand. It is rather straightforward.
 
+The only obstacle that remained was that I didn't know how to program in the C language. Fortunately I did program in Pascal for a while, and although it is different from C, it shares some paradigms. Besides that, there is an abundance of information online about the programming language C, so I just went for it and started coding.
+
 As part of this project, I delved deep into the extensive documentation available for the hardware of Atari 8-bit computers, which is still accessible today."
