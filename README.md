@@ -22,3 +22,7 @@ It became evident that the CH376S board provided a straightforward solution for 
 The only obstacle that remained was that I didn't know how to program in the C language. Fortunately I did program in Pascal for a while, and although it is different from C, it shares some paradigms. Besides that, there is an abundance of information online about the programming language C, so I just went for it and started coding.
 
 As part of this project, I delved deep into the extensive documentation available for the hardware of Atari 8-bit computers, which is still accessible today."
+# The code
+At the moment, there is just one file that has it all. It can be uploaded to a Seeeduino Xiao board with the Arduino IDE and from there on it should work fine.
+Remember that this still is work in progress. For everything to work out of the box, you have to connect and/or solder everything as mentioned in the first part of the code.
+The code can load a program or a game that has an ATR extension. Other extensions are not actively supported yet. The header of the ATR file has to be removed. In the future the code will do it for you. There is no menu to choose from programs or games. That is something that will be implemented in future versions. The code cannot run programs or games that depend on disk drive timings, skewing, piracy countermeasures, etcetera for obvious reasons.
