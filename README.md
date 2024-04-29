@@ -3,6 +3,10 @@
 # About
 "This project, which I started a few years ago, was initially a means for me to learn programming in the C language, particularly for use in embedded environments. The inspiration behind the project was to facilitate communication between an Atari 8-bit computer and a USB memory device.
 
-You might wonder, why an Atari 8-bit computer? Well, back in the 1980s, I owned an Atari 600XL computer that my parents bought from a school friend. It was my first real home computer, and I cherished it for its ability to be programmed in Basic and, of course, for the vast array of games it offered. However, I soon found that its original 16K of memory was insufficient, prompting me to have it internally upgraded to 64K. Seeing the 
+You might wonder, why an Atari 8-bit computer? Well, back in the 1980s, I owned an Atari 600XL computer that my parents bought from a school friend. It was my first real home computer, and I cherished it for its ability to be programmed in Basic and, of course, for the vast array of games it offered. However, I soon found that its original 16K of memory was insufficient, prompting me to have it internally upgraded to 64K.
+
+Watching the upgrade process of the Atari 600XL, from its original 16K of memory to an expanded 64K, sparked my interest in electronics. In an era before the widespread availability of the World Wide Web, I turned to books to learn more about the subject.
+
+Back in the day, I mainly stuck to Basic when programming on the Atari 600XL since there weren't many other options. But the real magic was in assembly language – it was lightning-fast, and nearly all the games and programs were built with it. If you wanted to pull off anything really exciting on an Atari 600XL or any 8-bit computer from that era, assembly language was the way to go. However, coding in assembly could be a bit of a grind because it lacked the structured approach that Basic provided, even if just a bit.
 
 As part of this project, I delved deep into the extensive documentation available for the hardware of Atari 8-bit computers, which is still accessible today."
