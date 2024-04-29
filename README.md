@@ -9,4 +9,6 @@ Watching the upgrade process of the Atari 600XL, from its original 16K of memory
 
 Back in the day, I mainly stuck to Basic when programming on the Atari 600XL since there weren't many other options. But the real magic was in assembly language – it was lightning-fast, and nearly all the games and programs were built with it. If you wanted to pull off anything really exciting on an Atari 600XL or any 8-bit computer from that era, assembly language was the way to go. However, coding in assembly could be a bit of a grind because it lacked the structured approach that Basic provided, even if just a bit.
 
+In the mid-1990s, long after the Atari 600XL had been replaced by a Personal Computer, I became intrigued by the programming language C. However, at the time, it seemed like a mystical art to me – I just couldn't wrap my head around it. So, I turned to Pascal instead. While it was supposedly less challenging, it still felt pretty daunting. Ultimately, my programming endeavors fizzled out, and from the late 1990s until 2020, I took a break from programming altogether.
+
 As part of this project, I delved deep into the extensive documentation available for the hardware of Atari 8-bit computers, which is still accessible today."
