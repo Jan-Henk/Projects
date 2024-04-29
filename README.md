@@ -17,4 +17,6 @@ I opted for the USB data storage protocol, considering it the de facto standard 
 
 The CH376S board serves as an interface between microcontrollers, like Arduino or Raspberry Pi, and USB storage devices such as flash drives, thumb drives or external hard drives. It contains the CH376S chip, which facilitates communication between a microcontroller and the USB storage device, enabling you to read and write data to it seamlessly. With the CH376S chip managing the communication process, the microcontroller can interact with USB storage devices using standard protocols like SPI or UART.
 
+It became evident that the CH376S board provided a straightforward solution for accessing USB data storage devices. The essential component that remained was a microcontroller to serve as a bridge between the Atari 600XL and the CH376S board. Fortunately, finding such a microcontroller online was a straightforward task, given the availability of various options on the Arduino platform.
+
 As part of this project, I delved deep into the extensive documentation available for the hardware of Atari 8-bit computers, which is still accessible today."
