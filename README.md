@@ -1,4 +1,5 @@
 # Atari disk drive emulator
+#About
 
 This project I started a few years ago as a way of learning to program in the C language, especially for use in embedded environments.
 The idea behind the project was to be able to let an Atari 8-bit computer communicate with an USB memory device.
