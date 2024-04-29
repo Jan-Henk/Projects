@@ -2,9 +2,8 @@
 Seeeduino Xiao board + CH376S board work together to emulate a disk drive that is compatible with every Atari 8-bit computer from the 70's, 80's and early 90's.
 It can read and write USB memory devices like thumbdrives, etc.
 # About
-This project I started a few years ago as a way of learning to program in the C language, especially for use in embedded environments.
-The idea behind the project was to be able to let an Atari 8-bit computer communicate with an USB memory device.
-Why an Atari 8-bit computer, you might ask? Well, in the 1980's I owned an Atari 600XL computer that my parents bought from a schoolfriend.
-It was my first real home computer and I loved it because of the possibility to program it in Basic and of course because I could play games, lots of games.
-Soon I found the 16K of memory that it had, not enough and I had it upgraded internally to 64K of memory.
-As part of the project I had to dive into lots of documentation that still could (and can) be found of the hardware of the Atari 8-bit computers.
+"This project, which I started a few years ago, was initially a means for me to learn programming in the C language, particularly for use in embedded environments. The inspiration behind the project was to facilitate communication between an Atari 8-bit computer and a USB memory device.
+
+You might wonder, why an Atari 8-bit computer? Well, back in the 1980s, I owned an Atari 600XL computer that my parents bought from a school friend. It was my first real home computer, and I cherished it for its ability to be programmed in Basic and, of course, for the vast array of games it offered. However, I soon found that its original 16K of memory was insufficient, prompting me to have it internally upgraded to 64K.
+
+As part of this project, I delved deep into the extensive documentation available for the hardware of Atari 8-bit computers, which is still accessible today."
