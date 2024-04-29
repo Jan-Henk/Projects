@@ -11,4 +11,6 @@ Back in the day, I mainly stuck to Basic when programming on the Atari 600XL sin
 
 In the mid-1990s, long after the Atari 600XL had been replaced by a Personal Computer, I became intrigued by the programming language C. However, at the time, it seemed like a mystical art to me – I just couldn't wrap my head around it. So, I turned to Pascal instead. While it was supposedly less challenging, it still felt pretty daunting. Ultimately, my programming endeavors fizzled out, and from the late 1990s until 2020, I took a break from programming altogether.
 
+Then came COVID-19. In late 2020 and early 2021, I made the decision to purchase a secondhand Atari 600XL out of nostalgia and as a way to have something to do while spending extended periods at home due to the restrictions.
+
 As part of this project, I delved deep into the extensive documentation available for the hardware of Atari 8-bit computers, which is still accessible today."
