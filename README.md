@@ -3,9 +3,9 @@ The Seeeduino Xiao board, combined with the CH376S board, works together to emul
 # About
 "This project, initiated a few years ago, was a way for me to learn C programming for embedded systems while connecting an Atari 8-bit computer to a USB memory device. The idea came from my childhood, when I was obsessed with my Atari 600XL. I upgraded its memory, played around with electronics, and messed with Basic and assembly language.
 
-In the mid-90s, I got curious about C programming but found it intimidating, so I tried Pascal instead. Programming took a backseat until COVID-19 hit. That's when I bought a secondhand Atari 600XL and decided to upgrade it with more memory and video enhancements.
+In the mid-90s, I got curious about C programming but found it intimidating, so I tried Pascal instead. Programming took a backseat until a few years ago. That's when I bought a secondhand Atari 600XL and decided to upgrade it with more memory and video enhancements.
 
-But finding an original disk drive was a challenge, so I turned to USB. Figuring out the USB data storage protocol was tough, but I stumbled upon the CH376S board, which acts as an interface between the Atari and USB storage. Pairing it with the Seeeduino Xiao microcontroller board was a no-brainer.
+But finding an original disk drive was a challenge, so I turned to USB. Figuring out the USB data storage protocol was tough, but I stumbled upon the CH376S board, which acts as an interface between the Atari and USB storage. Pairing it with the Seeeduino Xiao microcontroller board was the obvious choice, because it is small, has a fast microcontroller and can do SPI communication.
 
 Transitioning from Pascal to C was difficult at first, but with so many online resources, I managed to adapt to it fairly well. The Atari 8-bit hardware documentation was still available online and it fascinated me, because back then I never got the chance to look into it."
 # The code
