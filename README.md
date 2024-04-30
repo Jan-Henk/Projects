@@ -1,5 +1,5 @@
 # Atari disk drive emulator
-"The Seeeduino Xiao board, in collaboration with the CH376S board, operates in unison to emulate a disk drive compatible with Atari 8-bit computers dating from the 1970s, 1980s, and early 1990s. The system is capable of both reading from and writing to USB memory devices, such as thumb drives, providing seamless compatibility with modern storage solutions."
+The Seeeduino Xiao board, combined with the CH376S board, works together to emulate a disk drive that Atari 8-bit computers from the home computer era can recognize. This setup allows the system to read & write data from & to USB memory devices like thumb drives, making it easy to use modern storage options with older Atari computers.
 # About
 "This project, initiated a few years ago, was a way for me to learn C programming for embedded systems while connecting an Atari 8-bit computer to a USB memory device. The idea came from my childhood, when I was obsessed with my Atari 600XL. I upgraded its memory, played around with electronics, and messed with Basic and assembly language.
 
